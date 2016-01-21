@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’m an entrepreneur. I help companies build digital products, mostly consumer facing or B2B software and websites. That means I assist with product architecture, product development, project management, technical sourcing and strategic planning.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I’m a founding partner at i-Logs SPRL, the affordable geeks company, and you can follow me on Google+.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+In my free time, I enjoy photography,  running and playing jazz trumpet. 
+I'm a father  of two lovely girls and live in Brussels suburb.
