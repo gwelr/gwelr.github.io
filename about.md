@@ -10,3 +10,5 @@ I’m a founding partner at [i-Logs SPRL, the affordable geeks company](http://i
 
 In my free time, I enjoy photography,  running and playing jazz trumpet. 
 I'm a father  of two lovely girls and live in Brussels suburb.
+
+![gwelr avatar](/img/avatar.jpg)
