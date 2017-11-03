@@ -8,7 +8,7 @@ I’m an entrepreneur. I help companies build digital products, mostly consumer 
 
 I’m a founding partner at [i-Logs SPRL, the affordable geeks company](http://i-logs.com/).
 
-In my free time, I enjoy photography,  running and playing jazz trumpet. 
+In my free time, I enjoy photography, cooking, hiking, running and playing jazz trumpet. 
 I'm a father  of two lovely girls and live in Brussels suburb.
 
 ![gwelr avatar](/img/avatar.jpg)
